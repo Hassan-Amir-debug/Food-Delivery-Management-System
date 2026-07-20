@@ -1,12 +1,16 @@
 # Food Delivery Management System
 
-Database Management System (DBMS) course project.
+## Overview
+A DBMS project implementing a food delivery database.
 
-## Contents
-- Food Delivery Management System Report (.docx)
+## Features
+- Customer Management
+- Restaurant Management
+- Order Processing
+- Delivery Tracking
+- Payment Management
 
-## Concepts
-- ER Diagram
-- Relational Schema
-- SQL Database Design
-- Normalization (1NF, 2NF, 3NF)
+## Technologies
+- MySQL
+- SQL
+- DBMS
